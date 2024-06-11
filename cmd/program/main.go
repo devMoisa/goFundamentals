@@ -5,5 +5,8 @@ import (
 )
 
 func main() {
-	internal.VariablesAndDeclaration()
+	// internal.DataTypes()
+	// internal.VariablesAndDeclaration()
+
+	internal.ForLoop()
 }

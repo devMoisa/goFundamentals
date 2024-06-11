@@ -1,9 +1,9 @@
 # goFundamentals
 
 ### Basics of GoLang
-- [ ] Basic Syntax
-- [ ] Variables and declaration
-- [ ] Data Types
+- [x] Basic Syntax
+- [x] Variables and declaration
+- [x] Data Types
     - Bool
     - Byte
     - Int/Int8/Int16/Int32/Int64
