@@ -1,0 +1,11 @@
+
+[build]
+bin = "main"             # Nome do binário gerado
+cmd = "go build -o ./main ./cmd/program"  # Comando de build
+full_bin = "./main"      # Caminho completo do binário
+include_ext = ["go"]     # Extensões de arquivo para monitorar
+exclude_dir = ["vendor"] # Diretórios a serem excluídos
+
+[log]
+level = "debug"          # Nível de log
+
