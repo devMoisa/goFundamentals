@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"goFundamentals/internal"
+)
 
 func main() {
-	fmt.Println("Hello World")
+	internal.VariablesAndDeclaration()
 }
